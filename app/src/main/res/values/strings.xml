@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Japanese Quiz App</string>
+    <string name="welcome_text">Welcome to \nthe Japanese Numbers Quiz!</string>
+    <string name="hello">Hello,</string>
+    <string name="hello_message"> \nThis quiz will teach you how to recognize Japanese numbers from 1 to 10.
+                \nIf you get stuck, press HINT.</string>
+    <string name="edit_hint">Enter your name</string>
+    <string name="confirm_button">Confirm</string>
+
+    <string name="question_text">Which number is this?</string>
+
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+    <string name="four">four</string>
+    <string name="five">five</string>
+    <string name="six">six</string>
+    <string name="seven">seven</string>
+    <string name="eight">eight</string>
+    <string name="nine">nine</string>
+    <string name="ten">ten</string>
+
+    <string name="question_1">Question 1</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_3">Question 3</string>
+    <string name="question_4">Question 4</string>
+    <string name="question_5">Question 5</string>
+    <string name="question_6">Question 6</string>
+    <string name="question_7">Question 7</string>
+    <string name="question_8">Question 8</string>
+    <string name="question_9">Question 9</string>
+    <string name="question_10">Question 10</string>
+
+    <string name="hint_message_1">Pay attention to the number of lines.</string>
+    <string name="hint_message_2">How many lines in the outer shape?</string>
+    <string name="hint_message_3">Try turning your phone upside down. Which number does it remind you of?</string>
+    <string name="hint_message_4">Pay attention to the number of lines.</string>
+    <string name="hint_message_5">It looks a bit like a simplified human body.
+        And human body parts are: a head, a torso, 2 arms and 2 legs, which totals to how many body parts?</string>
+    <string name="hint_message_6">There is an open, infinite space between these two lines. Which number is associated with infinity?</string>
+    <string name="hint_message_7">Pay attention to the number of lines.</string>
+    <string name="hint_message_8">If you look at the horizontal lines, is there something familiar? Try adding the 2 vertical lines.</string>
+    <string name="hint_message_9">If you "disassemble" this kanji, you get one vertical line and something looking a whole lot like number 八.
+     Let\'s add those two together.</string>
+    <string name="hint_message_10">Let\'s try looking at it from a 45° angle. Which Roman number does it remind you of? </string>
+
+    <string name="congratulations_message">Congratulations! \nYou have 10/10 correct answers!</string>
+    <string name="try_again">Better luck next time. Your score is </string>
+
+    <string name="grade_button">My results</string>
+    <string name="reset_button">Reset quiz</string>
+    <string name="card_button">Hint</string>
+
+    <string name="wrong1">You answered question 1 wrong.</string>
+    <string name="wrong2">You answered question 2 wrong.</string>
+    <string name="wrong3">You answered question 3 wrong.</string>
+    <string name="wrong4">You answered question 4 wrong.</string>
+    <string name="wrong5">You answered question 5 wrong.</string>
+    <string name="wrong6">You answered question 6 wrong.</string>
+    <string name="wrong7">You answered question 7 wrong.</string>
+    <string name="wrong8">You answered question 8 wrong.</string>
+    <string name="wrong9">You answered question 9 wrong.</string>
+    <string name="wrong10">You answered question 10 wrong.</string>
+
+</resources>

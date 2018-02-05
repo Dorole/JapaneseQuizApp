@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="relative_layout_height">540dp</dimen>
+    <dimen name="margin_standard">20dp</dimen>
+    <dimen name="text_standard">20sp</dimen>
+    <dimen name="text_smaller">16sp</dimen>
+    <dimen name="padding_smaller">10dp</dimen>
+</resources>
